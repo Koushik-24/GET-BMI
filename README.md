@@ -1,1 +1,1 @@
-![image](https://github.com/Koushik-24/GET-BMI/blob/main/image.png?raw=true)
+![image](https://github.com/Koushik-24/GET-BMI/blob/main/Image.png?raw=true)
